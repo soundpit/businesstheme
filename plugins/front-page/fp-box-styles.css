@@ -1,0 +1,59 @@
+h3.fp-header {
+	color: #0073aa;
+	font-weight:bold;
+
+}
+
+table.fp-table  {
+	width:100%;
+	border-collapse: collapse;
+}
+
+table.fp-table,
+table.fp-table th,
+table.fp-table td
+{
+
+	padding: 6px;
+}
+
+table.fp-table p,
+table.fp-table label{
+
+	margin:0px;
+	padding:0px;
+	line-height:13px;
+}
+
+table.fp-table th{
+	width:200px;
+	text-align: left;
+	vertical-align: top;
+}
+
+table.fp-table td{
+
+	text-align:left;
+	vertical-align: top;
+}
+
+table.fp-table img {
+	height:100px;
+	max-width:150px;
+	margin-top:20px;
+	padding:5px;
+	border:2px solid #aaa;
+}
+.fp_input,
+.fp-textarea {
+	width:100%;
+}
+
+.fp-textarea {
+	min-height: 150px;
+}
+
+.fp-imageurl {
+	width:100%;
+	max-width: 800px;
+}
